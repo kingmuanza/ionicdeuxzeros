@@ -1,0 +1,7 @@
+{
+  "name": "DeuxZéros",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
